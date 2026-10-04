@@ -1,0 +1,1 @@
+{"uuid": "84242cb0-0bbb-4fec-a4c5-5462bdb34cbd", "befores": [{"name": "privacy_policy_checkbox_text", "status": "passed", "start": 1791110849316, "stop": 1791110849316}], "afters": [{"name": "privacy_policy_checkbox_text::<lambda>", "start": 1791110857623}], "start": 1791110849316, "stop": 1791110857623}

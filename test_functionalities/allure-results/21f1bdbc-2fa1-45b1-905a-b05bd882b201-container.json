@@ -1,0 +1,1 @@
+{"uuid": "c4b675bc-e7b5-42c6-a981-81ffb31e3847", "befores": [{"name": "news_letter_option", "status": "passed", "start": 1791111007072, "stop": 1791111007072}], "afters": [{"name": "news_letter_option::<lambda>", "start": 1791111012355}], "start": 1791111007072, "stop": 1791111012355}
